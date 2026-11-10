@@ -1,0 +1,1 @@
+nextflow run RNA-seq_pipeline/nf/rnaseq_workflow.nf --pairedEnd --reads "data/90-1391317205/00_fastq/*_{R1,R2}_001.fastq.gz" --outputDir "nf_output" --inputGenome "data/reference/GCF_000001635.27_GRCm39_genomic.fna" --inputGFF "data/reference/GCF_000001635.27_GRCm39_genomic.gff" -resume

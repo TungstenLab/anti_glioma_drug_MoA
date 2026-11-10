@@ -1,0 +1,15 @@
+Status	DMSO-3_sorted.bam	AUF-1_sorted.bam	TRANS-2_sorted.bam	TRANS-1_sorted.bam	TRANS-3_sorted.bam	AUF-3_sorted.bam	CIS-2_sorted.bam	AUF-2_sorted.bam	Control-1_sorted.bam	CIS-1_sorted.bam	DMSO-2_sorted.bam	DMSO-1_sorted.bam	CIS-3_sorted.bam	Control-3_sorted.bam	Control-2_sorted.bam
+Assigned	17740934	19247619	20052560	21093027	20957254	21079409	21202193	21448606	19722807	24728343	23554910	23956971	24661147	23617055	45343100
+Unassigned_Unmapped	481598	444437	492154	928186	497757	496134	497763	493173	537148	571698	664552	692922	694181	787235	1177821
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	4085640	4005479	4357531	4496582	4449320	4462979	4397537	4619565	5051473	5215221	5479920	5456837	5395580	6034810	11538452
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	4134363	3612906	3821252	3909054	4237556	3453025	3932554	4373466	4448252	4368046	5458709	4937076	5694070	5867132	9221967
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
